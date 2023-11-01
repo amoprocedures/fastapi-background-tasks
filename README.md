@@ -1,4 +1,4 @@
-# fastapi-background-tasks
+# FastAPI: Background Tasks
 
 We'll dive into the world of FastAPI background tasks and learn how to run asynchronous tasks in your API. 
 
