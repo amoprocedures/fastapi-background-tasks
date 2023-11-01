@@ -9,4 +9,4 @@ Whether you're a beginner or an experienced developer, this will help you take y
 
 
 If you intrested in more tech videos about computer programming:
-🔗 https://www.youtube.com/channel/UCY2ELJdzCy1oehevQIN73mA?sub_confirmation=1
+🔗 [Youtube Channel](https://www.youtube.com/channel/UCY2ELJdzCy1oehevQIN73mA?sub_confirmation=1)
