@@ -1,8 +1,7 @@
 from winotify import Notification
 from pathlib import Path
 
-
-icon = Path.joinpath(Path(__file__).cwd(), 'task.png')
+icon = str(Path.joinpath(Path(__file__).cwd(), 'task.png'))
 
 
 def notify(title: str, message: str) -> None:
@@ -13,4 +12,5 @@ def notify(title: str, message: str) -> None:
         duration="long",
         icon=icon
     )
+
     toast.show()
